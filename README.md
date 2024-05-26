@@ -6,21 +6,11 @@ SewaXpress provides users with an intuitive interface for scheduling appointment
 
 ## Repositories
 
-- **Frontend**: [SewaXpress Frontend](link-to-frontend-repo)
-- **Backend**: [SewaXpress Backend](link-to-backend-repo)
+- **Frontend**: [SewaXpress Frontend](https://github.com/KhadkaRipesh/sewaxpress-frontend)
+- **Backend**: [SewaXpress Backend](https://github.com/KhadkaRipesh/sewaxpress-backend)
 
 ## Technologies Used
 
 - **Frontend**: [React]
 - **Backend**: [Nest.js,TypeORM]
 - **Database**: [PostgreSQL]
-
-## Setup Instructions
-
-### Frontend
-
-Detailed setup instructions can be found [here](frontend/README.md).
-
-### Backend
-
-Detailed setup instructions can be found [here](backend/README.md).
