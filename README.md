@@ -11,8 +11,9 @@ SewaXpress provides users with an intuitive interface for scheduling appointment
 
 ## Technologies Used
 
-- **Frontend**: [List of technologies, e.g., React, etc.]
-- **Backend**: [List of technologies, e.g., Nest.js, Express, TypeORM, etc.]
+- **Frontend**: [React]
+- **Backend**: [Nest.js,TypeORM]
+- **Database**: [PostgreSQL]
 
 ## Setup Instructions
 
